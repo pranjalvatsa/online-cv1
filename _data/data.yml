@@ -63,9 +63,9 @@ education:
         university: Manipal University
         time: 2004 - 2008
         
-#experiences:
-#   title: Experiences
-#  info:
+experiences:
+    title: Experiences
+    info:
 #  - role: Principal Product Manager 
 #    time: Mar '22 - Present
 #    company: Stanza Living, Gurugram
