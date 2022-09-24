@@ -63,14 +63,8 @@ education:
         university: Manipal University
         time: 2004 - 2008
 experiences:
-	title: Experiences
+    title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
-        details: |
-            - Bullet point
-            - Bullet point
       - role: Principal Product Manager 
         time: Mar '22 - Present
         company: Stanza Living, Gurugram
