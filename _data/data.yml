@@ -40,7 +40,9 @@ career-profile:
     summary: |
       Entrepreneur & Product Leader with expertise in product lifecycle management, 
       business analysis & solution consultancy with proficiency in formulating, developing,
-      & implementing product strategy & roadmaps to achieve revenue goals.
+      & implementing product strategy & roadmaps to achieve revenue goals. 
+      Pranjal has a deep understanding of: requirement gathering & analysis, use cases and user stories, Wireframing, Prototyping, 
+      Agile, Front End Development (Web/Mobile app) & Search Engine Optimization.
 education:
     title: Education
     info:
@@ -84,13 +86,23 @@ experiences:
          details: |
             - Co-founded SpeQue; defined product roadmap for Point of Sale software & 
             - Scaled the business from scratch to an Annual Revenue Rate (ARR) of INR 35 Lacs
+       - role: Senior Business Analyst
+         time: Nov '17 - Jun '17
+         company: Altisuorce, Bangalore
+         details: |
+            - Gathered business requirements in coordination with cross-functional teams; translated business requirements into functional and technical documents   
        - role: Solutions Consultant
-         time: 2015 - 2017
+         time: Apr '15 - Nov '16
          company: Replicon, Bangalore
          details: |
             - Looped closely with sales & marketing teams to gather client requirements; closed deals worth more than $500,000
+       - role: Business Analyst
+         time: Mar '13 - Apr '15
+         company: Replicon, Bangalore
+         details: |
+            - Looped closely with sales & marketing teams to gather client requirements; closed deals worth more than $500,000     
        - role: Software Engineer
-         time: Mar '22 - Present
+         time: Sep '08 - Aug '11
          company: Infosys, Mysore
          details: |
             - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost effective solutions, achieved 7/7 client level engagement feedback
