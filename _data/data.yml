@@ -19,10 +19,6 @@ sidebar:
     github: pranjalvatsa
     telegram: # add your nickname without '@' sign
 
-    languages:
-      title: Languages
-      info:
-        - item: English
     interests:
       title: Interests
       info:
@@ -68,12 +64,12 @@ experiences:
          company: LeadSquared, Bangalore
          details: |
             - Spearheaded <b> product lifecycle management </b> for a variety of products including Developer Platform products
-            - <b> Gathered & understood customer & market requirements </b> in coordination with Sales & Marketing Teams
+            - Gathered & understood <b> customer & market requirements </b> in coordination with Sales & Marketing Teams
             - Maintained <b> product roadmap, introduced value proposition </b> and built products as per market needs & competitive analysis 
             - Conducted <b> Performance Analysis </b> of products; tracked success of the products and shared the status to stakeholders 
-            - <b> Imparted training to Sales teams </b> around the USPs of the new & existing products 
+            -  Imparted <b>training to Sales teams </b> around the USPs of the new & existing products 
             - Designed & delivered solutions for <b> Real Estate industry </b>
-            - Worked on <b> optimizing product pricing </b>
+            - Worked on optimizing <b> product pricing </b>
             - Assessed <b> customer issues </b> and validated the same with production team to devise suitable solutions
             - Credited for conceptualizing a <b> Quote & Order Management module </b> that enabled the company to address to these use cases
             - Defined & improved <b> pricing structure </b> for Developer Platform products 
