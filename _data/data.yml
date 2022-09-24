@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Pranjal Vatsa
-    tagline: Principal Product Manager
+    tagline: Entrepreneur & Product Leader
     avatar: profile_100x100.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -24,8 +24,6 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Native
-
     interests:
       title: Interests
       info:
@@ -61,29 +59,32 @@ experiences:
          time: Mar '22 - Present
          company: Stanza Living, Gurugram
          details: |
-            - Spearheading product lifecycle management for Medulla, company’s proprietary Procure to Pay software
+            - Spearheading <b> product lifecycle management </b> for Medulla, company’s proprietary Procure to Pay & Order Fulfilment software
             - Gathering & understanding customer requirements (existing & future) in coordination with Supply Chain & other businesses
             - Building product roadmap, keeping the needs of various business departments as a whole
        - role: Senior Product Manager
          time: Feb' 21 - Mar '22
          company: LeadSquared, Bangalore
          details: |
-            - Spearheading product lifecycle management functions for a variety of products including Developer Platform products
-            - Gathering & understanding customer & market requirements (existing & future) in coordination with Sales & Marketing Teams
-            - Managing product as a Product Owner by administering conceptualization, development, release processes, launches & positioning in the market
-            - Maintaining product roadmap, introducing value proposition and building products as per market needs & competitive analysis 
-            - Conducting Performance Analysis of the products; tracking success of the products and sharing the status to stakeholders 
-            - Imparting training to Sales Teams about the USPs of the new products as well as necessary inputs & product information
-            - Designing & delivering solutions to Real Estate Industry customers
-            - Working on optimizing product pricing; tracking performance of new products
-            - Assessing customer issues and validating the same with production team to devise a suitable solution
-       - role: Co founder
+            - Spearheaded product lifecycle management for a variety of products including Developer Platform products
+            - Gathered & understood customer & market requirements (existing & future) in coordination with Sales & Marketing Teams
+            - Maintained product roadmap, introduced value proposition and built products as per market needs & competitive analysis 
+            - Conducted Performance Analysis of products; tracked success of the products and shared the status to stakeholders 
+            - Imparted training to Sales teams around the USPs of the new & existing products 
+            - Designed & delivered solutions for Real Estate industry 
+            - Worked on optimizing product pricing
+            - Assessed customer issues and validated the same with production team to devise suitable solutions
+            - Credited for conceptualizing a Quote & Order Management module that enabled the company to address to these use cases
+            - Defined & improved pricing structure for Developer Platform products 
+            - Configured & implemented database as an API solution by leveraging AWS Elasticsearch Service 
+            - Augmented leads revenue by 5% through product improvements 
+            - Worked in collaboration with customers and stakeholders with an annual budget of INR 20 Crores
+       - role: Co-founder
          time: 2017 - 2021
          company: SpeQue, Bangalore
          details: |
-            - Co-founded SpeQue and defined product roadmap & ERP solution for 150+ restaurants, cafes, & bars Pan India with a budget of INR 10 Lacs
-            - Created web based & android based Point of Sale software solutions
-            - Expanded the business from scratch with an Annual Revenue Rate of INR 35 Lacs during the tenure
+            - Co-founded SpeQue; defined product roadmap for Point of Sale software & 
+            - Scaled the business from scratch to an Annual Revenue Rate (ARR) of INR 35 Lacs
        - role: Solutions Consultant
          time: 2015 - 2017
          company: Replicon, Bangalore
@@ -98,6 +99,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Product Lifecycle Management
+        level: 90%
+      - name: Product Roadmaps
+        level: 90%
       - name: .Net Core
         level: 80%
 
@@ -114,4 +119,3 @@ skills:
         level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
