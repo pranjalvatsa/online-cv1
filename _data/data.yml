@@ -63,16 +63,16 @@ education:
         university: Manipal University
         time: 2004 - 2008
         
-experiences:
-   title: Experiences
-  info:
-  - role: Principal Product Manager 
-    time: Mar '22 - Present
-    company: Stanza Living, Gurugram
-  details: |
-   - Spearheading product lifecycle management for Medulla, company’s proprietary Procure to Pay software
-   - Gathering & understanding customer requirements (existing & future) in coordination with Supply Chain & other businesses
-   - Building product roadmap, keeping the needs of various business departments as a whole
+#experiences:
+#   title: Experiences
+#  info:
+#  - role: Principal Product Manager 
+#    time: Mar '22 - Present
+#    company: Stanza Living, Gurugram
+#  details: |
+#   - Spearheading product lifecycle management for Medulla, company’s proprietary Procure to Pay software
+#   - Gathering & understanding customer requirements (existing & future) in coordination with Supply Chain & other businesses
+#   - Building product roadmap, keeping the needs of various business departments as a whole
 
 #    - role: Senior Product Manager
 #      time: Feb' 21 - Mar '22
