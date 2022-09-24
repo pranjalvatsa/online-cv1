@@ -93,25 +93,25 @@ experiences:
            #    - Configured & implemented database as an API solution by leveraging AWS Elasticsearch Service 
             #   - Augmented leads revenue by 5% through product improvements 
              #  - Worked in collaboration with customers and stakeholders with an annual budget of INR 20 Crores
-    #  - role: Co founder
-     #   time: 2017 - 2021
-      #  company: SpeQue, Bangalore
-       # details: |
-        #  - Co-founded SpeQue and defined product roadmap & ERP solution for 150+ restaurants, cafes, & bars Pan India with a budget of INR 10 Lacs
-         # - Created web based & android based Point of Sale software solutions
-         # - Expanded the business from scratch with an Annual Revenue Rate of INR 35 Lacs during the tenure
-     # - role: Solutions Consultant
-      #  time: 2015 - 2017
-       # company: Replicon, Bangalore
-       # details: |
-       #   - Looped closely with sales & marketing teams to gather client requirements; closed deals worth more than $500,000
+      - role: Co founder
+        time: 2017 - 2021
+        company: SpeQue, Bangalore
+        details: |
+           - Co-founded SpeQue and defined product roadmap & ERP solution for 150+ restaurants, cafes, & bars Pan India with a budget of INR 10 Lacs
+           - Created web based & android based Point of Sale software solutions
+           - Expanded the business from scratch with an Annual Revenue Rate of INR 35 Lacs during the tenure
+      - role: Solutions Consultant
+        time: 2015 - 2017
+        company: Replicon, Bangalore
+        details: |
+           - Looped closely with sales & marketing teams to gather client requirements; closed deals worth more than $500,000
 
-       #- role: Software Engineer
-       # time: Mar '22 - Present
-       # company: Infosys, Mysore
-       # details: |
-        #  - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost effective solutions, 
-        #  achieved 7/7 client level engagement feedback
+     - role: Software Engineer
+       time: Mar '22 - Present
+       company: Infosys, Mysore
+       details: |
+           - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost effective solutions, 
+       achieved 7/7 client level engagement feedback
 
 skills:
     title: Skills &amp; Proficiency
