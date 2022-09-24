@@ -62,55 +62,56 @@ education:
       - degree: B.E. in Electrical & Electronics
         university: Manipal University
         time: 2004 - 2008
-experiences:
-    title: Experiences
-    info:
-      - role: Principal Product Manager 
-        time: Mar '22 - Present
-        company: Stanza Living, Gurugram
-        details: |
-          - Spearheading product lifecycle management for Medulla, company’s proprietary Procure to Pay software
-          - Gathering & understanding customer requirements (existing & future) in coordination with Supply Chain & other businesses
-          - Building product roadmap, keeping the needs of various business departments as a whole
+#        
+#experiences:
+#   title: Experiences
+#  info:
+#   - role: Principal Product Manager 
+#    time: Mar '22 - Present
+#   company: Stanza Living, Gurugram
+#  details: |
+#   - Spearheading product lifecycle management for Medulla, company’s proprietary Procure to Pay software
+#  - Gathering & understanding customer requirements (existing & future) in coordination with Supply Chain & other businesses
+# - Building product roadmap, keeping the needs of various business departments as a whole
+#
+#    - role: Senior Product Manager
+#      time: Feb' 21 - Mar '22
+#       company: LeadSquared, Bangalore
+#       details: |
+#               - Spearheading product lifecycle management functions for a variety of products including Developer Platform products
+ #              - Gathering & understanding customer & market requirements (existing & future) in coordination with Sales & Marketing Teams
+  #             - Managing product as a Product Owner by administering conceptualization, development, release processes, launches & positioning in the market
+   #            - Maintaining product roadmap, introducing value proposition and building products as per market needs & competitive analysis 
+    #           - Conducting Performance Analysis of the products; tracking success of the products and sharing the status to stakeholders 
+     #          - Imparting training to Sales Teams about the USPs of the new products as well as necessary inputs & product information
+      #         - Designing & delivering solutions to Real Estate Industry customers
+       #        - Working on optimizing product pricing; tracking performance of new products
+        #       - Assessing customer issues and validating the same with production team to devise a suitable solution
+        #highlights: |
+         #      - Credited for conceptualizing a Quote & Order Management module that enabled the company to address to these use cases
+          #     - Successfully defined & improved pricing structure for Developer Platform products 
+           #    - Configured & implemented database as an API solution by leveraging AWS Elasticsearch Service 
+            #   - Augmented leads revenue by 5% through product improvements 
+             #  - Worked in collaboration with customers and stakeholders with an annual budget of INR 20 Crores
+    #  - role: Co founder
+     #   time: 2017 - 2021
+      #  company: SpeQue, Bangalore
+       # details: |
+        #  - Co-founded SpeQue and defined product roadmap & ERP solution for 150+ restaurants, cafes, & bars Pan India with a budget of INR 10 Lacs
+         # - Created web based & android based Point of Sale software solutions
+         # - Expanded the business from scratch with an Annual Revenue Rate of INR 35 Lacs during the tenure
+     # - role: Solutions Consultant
+      #  time: 2015 - 2017
+       # company: Replicon, Bangalore
+       # details: |
+       #   - Looped closely with sales & marketing teams to gather client requirements; closed deals worth more than $500,000
 
-      - role: Senior Product Manager
-        time: Feb' 21 - Mar '22
-        company: LeadSquared, Bangalore
-        details: |
-               - Spearheading product lifecycle management functions for a variety of products including Developer Platform products
-               - Gathering & understanding customer & market requirements (existing & future) in coordination with Sales & Marketing Teams
-               - Managing product as a Product Owner by administering conceptualization, development, release processes, launches & positioning in the market
-               - Maintaining product roadmap, introducing value proposition and building products as per market needs & competitive analysis 
-               - Conducting Performance Analysis of the products; tracking success of the products and sharing the status to stakeholders 
-               - Imparting training to Sales Teams about the USPs of the new products as well as necessary inputs & product information
-               - Designing & delivering solutions to Real Estate Industry customers
-               - Working on optimizing product pricing; tracking performance of new products
-               - Assessing customer issues and validating the same with production team to devise a suitable solution
-        highlights: |
-               - Credited for conceptualizing a Quote & Order Management module that enabled the company to address to these use cases
-               - Successfully defined & improved pricing structure for Developer Platform products 
-               - Configured & implemented database as an API solution by leveraging AWS Elasticsearch Service 
-               - Augmented leads revenue by 5% through product improvements 
-               - Worked in collaboration with customers and stakeholders with an annual budget of INR 20 Crores
-      - role: Co founder
-        time: 2017 - 2021
-        company: SpeQue, Bangalore
-        details: |
-          - Co-founded SpeQue and defined product roadmap & ERP solution for 150+ restaurants, cafes, & bars Pan India with a budget of INR 10 Lacs
-          - Created web based & android based Point of Sale software solutions
-          - Expanded the business from scratch with an Annual Revenue Rate of INR 35 Lacs during the tenure
-      - role: Solutions Consultant
-        time: 2015 - 2017
-        company: Replicon, Bangalore
-        details: |
-          - Looped closely with sales & marketing teams to gather client requirements; closed deals worth more than $500,000
-
-       - role: Software Engineer
-        time: Mar '22 - Present
-        company: Infosys, Mysore
-        details: |
-          - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost effective solutions, 
-          achieved 7/7 client level engagement feedback
+       #- role: Software Engineer
+       # time: Mar '22 - Present
+       # company: Infosys, Mysore
+       # details: |
+        #  - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost effective solutions, 
+        #  achieved 7/7 client level engagement feedback
 
 skills:
     title: Skills &amp; Proficiency
