@@ -36,8 +36,8 @@ career-profile:
     summary: |
       Entrepreneur & Product Leader with expertise in product lifecycle management, 
       business analysis & solution consultancy with proficiency in formulating, developing,
-      & implementing product strategy & roadmaps to achieve revenue goals. 
-      Pranjal has a deep understanding of: requirement gathering & analysis, use cases and user stories, wireframing, prototyping, 
+      & implementing product strategy & roadmaps to achieve revenue goals, primarily for SAAS products. 
+      Pranjal has a deep understanding of: SAAS, requirement gathering & analysis, use cases and user stories, wireframing, prototyping, 
       Agile, Front End Development (Web/Mobile app) & Search Engine Optimization.
 education:
     title: Education
@@ -62,6 +62,7 @@ experiences:
        - role: Senior Product Manager
          time: Feb' 21 - Mar '22
          company: LeadSquared, Bangalore
+         details: Medulla is a proprietary SAAS offeting, being built by the product team at Stanza Living to cater to use cases for procurement to payment & order fulfilment for e-commerce business.
          details: |
             - Spearheaded <b> product lifecycle management </b> for a variety of products including Developer Platform products
             - Gathered <b> use cases </b> in coordination with Sales & Marketing Teams
@@ -79,12 +80,14 @@ experiences:
        - role: Co-founder (Product Head)
          time: 2017 - 2021
          company: SpeQue, Bangalore 
+         details: SpeQue is a SAAS company offering restaurant management software, which handles Billing, Inventory, Feedback & CRM for small, medium & enterprise restaurants, cafes and bars.
          details: |
             - Co-founded SpeQue; defined product roadmap for <b> Point of Sale software </b>
             - <b> Scaled the business </b> from scratch to an Annual Revenue Rate (ARR) of <b> INR 35 Lacs </b>
        - role: Senior Business Analyst (Product Owner)
          time: Nov '17 - Jun '17
          company: Altisource, Bangalore
+         details: Altisource provides
          details: |
             - Gathered business requirements in coordination with cross-functional teams; translated business requirements into functional and technical documents   
        - role: Solutions Consultant
