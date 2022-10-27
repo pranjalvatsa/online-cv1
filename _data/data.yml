@@ -81,7 +81,7 @@ experiences:
          time: 2017 - 2021
          company: SpeQue, Bangalore 
          details: |
-            - SpeQue is a <b> SAAS company </b> offering <b> restaurant management software </b>, which handles <b> Billing, Inventory, Feedback & CRM </b> for small, medium & enterprise restaurants, cafes and bars.
+            - <i> SpeQue is a <b> SAAS company </b> offering <b> restaurant management software </b>, which handles <b> Billing, Inventory, Feedback & CRM </b> for small, medium & enterprise restaurants, cafes and bars. </i>
             - Co-founded SpeQue; defined product roadmap for <b> Point of Sale software </b>
             - <b> Scaled the business </b> from scratch to an Annual Revenue Rate (ARR) of <b> INR 35 Lacs </b>
        - role: Senior Business Analyst (Product Owner)
@@ -94,6 +94,7 @@ experiences:
          time: Apr '15 - Nov '16
          company: Replicon, Bangalore
          details: |
+            - <i> Replicon is a SAAS company that makes software for time tracking, advanced project management, task collaboration, resource allocation, and professional services automation </i>
             - Looped closely with sales & marketing teams to gather client requirements; closed deals worth more than $500,000
        - role: Business Analyst (Product Owner)
          time: Mar '13 - Apr '15
