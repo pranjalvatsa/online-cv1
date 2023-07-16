@@ -34,9 +34,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Passionate & driven product leader with 13+ years of experience in software development, including 8+ years in product lifecycle management, 
-      business analysis & solution consultancy. Built and scaled a Saas startup from scratch to 100+ paid customers. 
-      Skillset includes: SaaS, low code, requirement gathering & analysis, use cases and user stories, wireframing, prototyping, Agile, Front End Development & Search Engine Optimization.
+      13+ years of software development experience including 8+ years in product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 100+ paid customers. Proficient in SaaS, low code, requirement gathering & analysis, use cases and user stories, wireframing, prototyping, Agile, Front End Development & Search Engine Optimization.
 education:
     title: Education
     info:
@@ -54,25 +52,24 @@ experiences:
          time: Mar '22 - Present
          company: Stanza Living, Gurugram
          details: |
-            - <i> Building NucleusX, a low-code <b> SAAS platform</b> to enable development of business applications in reduced time
-            - Defined &amp; designed the UX/UI and the backend architecture for the platform
-            - Built end to end <i> procure to pay </i> product to reduce company's overall revenue leakage by INR 15 Crore 
-            - Saved more than <b> 2000 man-hours </b> in development time
-            - Automated more than <b>100 business flows</b>, thereby increasing overall productivity for business users and reducing TAT by more than 50%
-            - Building a service delivery product to help the company manage all services delivered to Stanza Living residents
+           - Building NucleusX, a low-code SaaS platform, to enable faster development of business applications.
+           - Defined and designed the UX/UI as well as the backend architecture for the platform.
+           - Developed an end-to-end procure-to-pay product to reduce the company's overall revenue leakage by INR 15 crore.
+           - Saved over 2000 man-hours in development time.
+           - Automated over 100 business flows, resulting in increased productivity for business users and a reduction in TAT by more than 50%.
+           - Developing a service delivery product to assist the company in managing all services provided to its residents.
        - role: Senior Product Manager
          time: Feb '21 - Mar '22
          company: LeadSquared, Bangalore
          details: |
-            - Lead <b> product lifecycle management </b> for a variety of products including Developer Platform products
-            - Maintained <b> product roadmap</b>, introduced value proposition and built products as per market needs
-            - Conducted <b> Performance Analysis </b> of products; tracked success of the products 
-            - Imparted <b>training to sales teams </b> around the USPs of the new & existing products 
-            - Designed & delivered solutions for <b> Real Estate industry </b>
-            - Optimised <b> product pricing </b> thereby making developer platform products add to the company's top line
-            - Assessed <b> customer issues </b> and validated the same with production team to devise suitable solutions
-            - Configured & implemented <b> database as an API solution </b> which enabled the company to address to numerous new use cases
-            - Worked in collaboration with customers and stakeholders with an annual budget of <b> INR 20 Crores </b>
+            - Led product lifecycle management for various products, including Developer Platform products.
+            - Maintained product roadmap, introduced value propositions, and built products to meet market needs.
+            - Conducted performance analysis of products, tracked their success, and provided training to sales teams on new and existing products' unique selling points.
+            - Designed and delivered solutions for the Real Estate industry.
+            - Optimized product pricing to increase the company's top line with Developer Platform products.
+            - Assessed customer issues and validated them with the production team to devise suitable solutions.
+            - Configured and implemented a database as an API solution, enabling the company to address numerous new use cases.
+            - Collaborated with customers and stakeholders with an annual budget of INR 20 Crores.
        - role: Co-founder (Product Head)
          time: Dec '16 - Feb '21
          company: SpeQue, Bangalore 
