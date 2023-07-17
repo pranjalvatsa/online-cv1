@@ -52,11 +52,11 @@ experiences:
          time: Mar '22 - Present
          company: Stanza Living, Gurugram
          details: |
-           - Building NucleusX, a low-code SaaS platform, to enable faster development of business applications.
+           - Building NucleusX, a <b> low-code SaaS platform </b>, to enable faster development of business applications.
            - Defined and designed the UX/UI as well as the backend architecture for the platform.
-           - Developed an end-to-end procure-to-pay product to reduce the company's overall revenue leakage by INR 15 crore.
-           - Saved over 2000 man-hours in development time.
-           - Automated over 100 business flows, resulting in increased productivity for business users and a reduction in TAT by more than 50%.
+           - Developed an end-to-end <b>procure-to-pay </b> product to reduce the company's overall <b> revenue leakage by INR 15 crore </b>.
+           - Saved over <b>2000 man-hours in development time.</b>
+           - <b>Automated over 100 business flows</b>, resulting in increased productivity for business users and a reduction in TAT by more than 50%.
            - Developing a service delivery product to assist the company in managing all services provided to its residents.
        - role: Senior Product Manager
          time: Feb '21 - Mar '22
@@ -87,13 +87,13 @@ experiences:
          time: Mar '13 - Apr '15
          company: InEight Inc., Bangalore
          details: |
-            - <i> InEight provides field-tested project management software for the owners, contractors, engineers and architects who are building the world around us. </i>
+            - <i> InEight provides field-tested project management software for the owners, contractors, engineers, and architects who are building the world around us. </i>
             - Facilitated the product development & sales worth <b>more than $300,000</b> to an Infrastructure US giant    
        - role: Software Engineer
          time: Sep '08 - Aug '11
          company: Infosys, Mysore
          details: |
-            - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost effective solutions, achieved 7/7 client level engagement feedback
+            - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost-effective solutions, achieved 7/7 client level engagement feedback
 skills:
     title: Skills &amp; Proficiency
 
@@ -115,6 +115,3 @@ skills:
 
       - name: Web APIs
         level: 90%
-
-      - name: Balsamiq
-        level: 80%
