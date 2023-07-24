@@ -34,7 +34,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      14 years of software development experience including 8+ years in product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in SaaS, low code, requirement gathering & analysis, use cases, and user stories, wireframing, prototyping, agile & Search Engine Optimization.
+      14 years of software development experience including 8+ years in product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in SaaS, low code, use cases, and user stories, wireframing, prototyping, agile & Search Engine Optimization.
 education:
     title: Education
     info:
@@ -90,24 +90,3 @@ experiences:
          company: Infosys, Mysore
          details: |
             - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost-effective solutions, achieved 7/7 client level engagement feedback
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Product Lifecycle Management
-        level: 90%
-        
-      - name: Product Roadmaps
-        level: 90%
-        
-      - name: Use cases & user stories
-        level: 90%
-        
-      - name: .Net Core
-        level: 80%
-
-      - name: HTML/CSS, Javascript & jQuery
-        level: 90%
-
-      - name: Web APIs
-        level: 90%
