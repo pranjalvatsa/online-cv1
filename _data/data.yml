@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Pranjal Vatsa
-    tagline: Entrepreneur | Product Manager
+    tagline: Entrepreneur | Technical & Growth Product Manager
     avatar: profile_100x100.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -22,7 +22,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in SaaS, low code, user stories, wireframing, agile & product roadmaps.
+      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in SaaS, low code, user stories, wireframing, agile & product strategy.
 education:
     title: Education
     info:
@@ -41,18 +41,18 @@ experiences:
          company: Stanza Living, Gurugram
          details: |
            - Building NucleusX, a <b> low-code SaaS platform </b>, to enable faster development of business applications.
-           - Developed an end-to-end <b>procure-to-pay </b> product to reduce the company's overall <b> revenue leakage by INR 15 crore </b>.
+           - Developed an end-to-end <b>procure-to-pay </b> product to reduce the company's overall <b> revenue leakage by 5% </b>.
            - Saved over <b>2000 man-hours in development time.</b>
            - <b>Automated over 100 business flows</b>, resulting in increased productivity for business users and a reduction in TAT by more than 50%.
-           - Building an end-to-end service delivery product to assist the company in managing all services provided to its residents, focusing on improving CX and reducing cost
+           - Building an end-to-end service delivery product to assist the company in managing all services provided to its residents, focusing on <b> improving CX and reducing cost </b>
        - role: Senior Product Manager
          time: Feb '21 - Mar '22
          company: LeadSquared, Bangalore
          details: |
-            - Led <b>product lifecycle management</b> for various products, including Developer Platform products.
+            - Led <b>product lifecycle management</b> for various Developer Platform products.
             - Maintained <b>product roadmap, introduced value propositions</b>, and built products to meet market needs.
             - Conducted <b>performance analysis</b> of products, tracked their success, and provided training to sales teams on new and existing products' unique selling points.
-            - Optimized <b>product pricing</b> to increase the company's top line by ~ 1 Cr ARR, with Developer Platform products.
+            - Optimized <b>product pricing</b> leading to an increase in the company's top line by ~ 1 Cr ARR, with Developer Platform products.
        - role: Co-founder (Product Head)
          time: Dec '16 - Feb '21
          company: SpeQue, Bangalore 
@@ -65,7 +65,7 @@ experiences:
          company: Replicon, Bangalore
          details: |
             - <i> Replicon is a SaaS company that makes software for time tracking, advanced project management, task collaboration, resource allocation, and professional services automation </i>
-            - Looped closely with sales & marketing teams to gather client requirements; closed deals worth <b>more than $500,000</b>
+            - Looped closely with sales & marketing teams to provide product solutions; closed deals worth <b>more than $500,000</b>
        - role: Business Analyst (Product Owner)
          time: Mar '13 - Apr '15
          company: InEight Inc., Bangalore
