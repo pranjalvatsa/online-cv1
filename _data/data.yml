@@ -41,8 +41,7 @@ experiences:
          company: Stanza Living, Gurugram
          details: |
            - Led the development and deployment of NucleusX, a <b> low-code SaaS platform </b>, which optimized the development of business applications by over 50%
-           - Developed product strategy, conducted market research and competitive analysis, wrote user stories to build an end-to-end procure-to-pay product, which reduced the company's overall revenue leakage by over 5%           - Saved over <b>2000 man-hours in development time.</b>
-           - Designed the <b>automation 100+ business process flows</b>, resulting in increased productivity for business users and a reduction in TAT by more than 30%.
+           - Developed product strategy, conducted market research and competitive analysis, wrote user stories to build an end-to-end procure-to-pay product, which reduced the company's overall revenue leakage by over 5% 
            - Led the creation and deployment of a comprehensive service management system, optimizing the customer experience by streamlining processes and reducing operational costs by 25%.
        - role: Senior Product Manager
          time: Feb '21 - Mar '22
@@ -55,8 +54,8 @@ experiences:
          company: SpeQue, Bangalore 
          details: |
             - Developed & deployed a Point of Sale software to help business owners increase overall <b> operational efficiency by up to 15% </b> and saving <b> more than 20% </b> in cost of software
-            - Built front end & back end features of web and mobile apps on .Net Core, Xamarin, Mongo DB & Web API stack 
-            - Built go-to-market<b> to scale the business </b> from scratch to an Annual Revenue Rate (ARR) of <b> over INR 35 Lacs </b>
+            - Built front end & back end features of web and mobile apps on .Net Core, Xamarin, Mongo DB & Web APIs 
+            - Defined <b>go-to-market strategies </b> to scale the business from scratch to an Annual Revenue Rate (ARR) of over INR 35 Lacs 
        - role: Solutions Consultant
          time: Apr '15 - Nov '16
          company: Replicon, Bangalore
@@ -67,7 +66,7 @@ experiences:
          company: InEight Inc., Bangalore
          details: |
             - Led a team of 15 people, following agile methodologies, to build products for Infrastructure companies
-            - Built go-to-market strategies and carried out customer demos resulting in net sales worth <b>more than $300,000</b>  
+            - Built go-to-market strategies and carried out customer presentations resulting in net sales worth <b>more than $300,000</b>  
        - role: Software Engineer
          time: Sep '08 - Aug '11
          company: Infosys, Mysore
