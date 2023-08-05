@@ -22,7 +22,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in SaaS, low code, user stories, wireframing, agile & product strategy.
+      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product strategy.
 education:
     title: Education
     info:
@@ -40,40 +40,36 @@ experiences:
          time: Mar '22 - Present
          company: Stanza Living, Gurugram
          details: |
-           - Building NucleusX, a <b> low-code SaaS platform </b>, to enable faster development of business applications.
-           - Developed an end-to-end <b>procure-to-pay </b> product to reduce the company's overall <b> revenue leakage by 5% </b>.
-           - Saved over <b>2000 man-hours in development time.</b>
-           - <b>Automated over 100 business flows</b>, resulting in increased productivity for business users and a reduction in TAT by more than 50%.
-           - Building an end-to-end service delivery product to assist the company in managing all services provided to its residents, focusing on <b> improving CX and reducing cost </b>
+           - Led the development and deployment of NucleusX, a <b> low-code SaaS platform </b>, which optimized the development of business applications by over 50%
+           - Developed product strategy, conducted market research and competitive analysis to build an end-to-end procure-to-pay product, which reduced the company's overall revenue leakage by over 5%           - Saved over <b>2000 man-hours in development time.</b>
+           - Designed the <b>automation 100+ business process flows</b>, resulting in increased productivity for business users and a reduction in TAT by more than 30%.
+           - Led the creation and deployment of a comprehensive service management system, optimizing the customer experience by streamlining processes and reducing operational costs by 25%.
        - role: Senior Product Manager
          time: Feb '21 - Mar '22
          company: LeadSquared, Bangalore
          details: |
-            - Led <b>product lifecycle management</b> for various Developer Platform products.
-            - Maintained <b>product roadmap, introduced value propositions</b>, and built products to meet market needs.
-            - Conducted <b>performance analysis</b> of products, tracked their success, and provided training to sales teams on new and existing products' unique selling points.
+            - Collaborated with <b> cross-functional teams </b> to build <b>product roadmap</b>, monitored KPIs, carried market research and competitive analysis to build products to solve developer problems
             - Optimized <b>product pricing</b> leading to an increase in the company's top line by ~INR 50L ARR, with Developer Platform products.
        - role: Co-founder (Product Head)
          time: Dec '16 - Feb '21
          company: SpeQue, Bangalore 
          details: |
-            - <i> SpeQue is a<b> restaurant management software</b>, which handles <b> Billing, Inventory, Feedback & CRM </b> for small, medium & enterprise restaurants, cafes and bars. </i>
-            - Built the Point of Sale software helping business owners increase overall <b> operational efficiency by up to 15% </b> and saving <b> more than 20% </b> in cost of software
-            - <b> Scaled the business </b> from scratch to an Annual Revenue Rate (ARR) of <b> INR 35 Lacs </b>
+            - Developed & deployed a Point of Sale software to help business owners increase overall <b> operational efficiency by up to 15% </b> and saving <b> more than 20% </b> in cost of software
+            - Built front end & back end features of web and mobile apps on .Net Core, Xamarin, Mongo DB & Web API stack 
+            - Built go-to-market<b> to scale the business </b> from scratch to an Annual Revenue Rate (ARR) of <b> over INR 35 Lacs </b>
        - role: Solutions Consultant
          time: Apr '15 - Nov '16
          company: Replicon, Bangalore
          details: |
-            - <i> Replicon is a SaaS company that makes software for time tracking, advanced project management, task collaboration, resource allocation, and professional services automation </i>
-            - Looped closely with sales & marketing teams to provide product solutions; closed deals worth <b>more than $500,000</b>
+            - Collaborated with sales & marketing teams to provide strategic product solutions to close deals worth <b>more than $500,000</b>
        - role: Business Analyst (Product Owner)
          time: Mar '13 - Apr '15
          company: InEight Inc., Bangalore
          details: |
-            - <i> InEight provides field-tested project management software for the owners, contractors, engineers, and architects who are building the world around us. </i>
-            - Facilitated the product development & sales worth <b>more than $300,000</b> to an Infrastructure US giant    
+            - Led a team of 15 people, following agile methodologies, to build products for Infrastructure companies
+            - Built go-to-market strategies and carried out customer demos resulting in net sales worth <b>more than $300,000</b>  
        - role: Software Engineer
          time: Sep '08 - Aug '11
          company: Infosys, Mysore
          details: |
-            - Successfully developed, tested & deployed parts of $1,000,000 financial application; provided efficient and cost-effective solutions, achieved 7/7 client level engagement feedback
+            - Successfully developed, tested & deployed parts of $1,000,000 financial application using ASP .Net and SQL Server; provided efficient and cost-effective solutions, achieved 7/7 client level engagement feedback
