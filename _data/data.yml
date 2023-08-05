@@ -1,4 +1,4 @@
-#
+in#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -60,7 +60,7 @@ experiences:
          time: Apr '15 - Nov '16
          company: Replicon, Bangalore
          details: |
-            - Collaborated with sales & marketing teams to provide strategic product solutions to close deals worth <b>more than $500,000</b>
+            - Collaborated with engineering, sales & marketing teams to provide strategic product solutions to close deals worth <b>more than $500,000</b>
        - role: Business Analyst (Product Owner)
          time: Mar '13 - Apr '15
          company: InEight Inc., Bangalore
