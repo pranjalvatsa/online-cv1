@@ -39,7 +39,7 @@ experiences:
          company: Stanza Living, Gurugram
          details: |
            - Led the development and deployment of NucleusX, a <b> low-code SaaS platform </b>, which optimized the development of business applications by over 50%
-           - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories to build an end-to-end procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
+           - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories for a procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
            - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and <b>reducing operational costs by 25%.</b>
            - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced <b>revenue leakage by 20%. </b>      
            - Developed and implemented a custom "My Task" product tailored for Resident Captains, <b>streamlining their workflows, boosting productivity, and automating repetitive tasks</b>
@@ -47,20 +47,24 @@ experiences:
          time: Feb '21 - Mar '22
          company: LeadSquared, Bangalore
          details: |
-            - Collaborated with <b> cross-functional teams </b> to build <b>product roadmap</b>, monitored KPIs, carried competition analysis, wrote user stories, to build products to solve developer problems
-            - Developed and implemented Mavis DB, a highly versatile database-as-a-service platform, resulting in an increase in product adoption for 20+ enterprise clients across different industries
-            - Optimized <b>product pricing</b> leading to an increase in the company's top line by ~INR 50L ARR, with Developer Platform products.
+            - Collaborated with <b> cross-functional teams </b> to build <b>product roadmap</b> for Developer Platform products 
+            - Monitored KPIs, carried out competition analysis, wrote user stories, to build products to solve developer problems
+            - Developed and implemented Mavis DB, a highly versatile database-as-a-service platform, leading to an increase in product adoption across 50+ enterprise clients across various industries
+            - Ideated and designed a queue-as-a-service product to provide queue management capabilities to developers and businesses, and is used to manage thousands of requests per second
+            - Optimized <b>product pricing</b> for all developer platform products, leading to an increase in the company's top line by ~INR 50L ARR
        - role: Co-founder (Product Head)
          time: Dec '16 - Feb '21
          company: SpeQue, Bangalore 
          details: |
             - Ideated & built a Point of Sale software to help business owners increase overall <b> operational efficiency by up to 15% </b> and saving <b> more than 20% </b> in cost of software
-            - Defined <b>go-to-market and business development strategies </b> to scale the business from scratch to an Annual Revenue Rate (ARR) of over INR 35 Lacs 
+            - Defined <b>go-to-market</b> to scale the business from scratch to an Annual Revenue Rate (ARR) of over INR 35 Lacs 
+            - Conducted <b>digital marketing and business development</b> activities to generate and convert leads into customers, resulting in an overall customer count of 150+.
        - role: Solutions Consultant
          time: Apr '15 - Nov '16
          company: Replicon, Bangalore
          details: |
             - Collaborated with engineering, sales & marketing teams to provide strategic product solutions to close deals worth <b>more than $500,000</b>
+            - Analysed customer requirements and delivered statements of work for more than 100 enterprise customers
        - role: Business Analyst (Product Owner)
          time: Mar '13 - Apr '15
          company: InEight Inc., Bangalore
@@ -71,7 +75,8 @@ experiences:
          time: Sep '08 - Aug '11
          company: Infosys, Mysore
          details: |
-            - Developed, tested & deployed parts of $1,000,000 financial application using ASP .Net and SQL Server; provided efficient and cost-effective solutions, achieved 7/7 client level engagement feedback
+            - Developed, tested & deployed parts of $1,000,000 financial application using ASP .Net and SQL Server
+            - Provided efficient and cost-effective solutions, <b> achieved 7/7 client-level engagement feedback</b>
     
 skills:
     title: Technical Skills
