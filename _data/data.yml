@@ -40,10 +40,10 @@ experiences:
          company: Stanza Living, Gurugram
          details: |
            - Led the development and deployment of NucleusX, a <b> low-code SaaS platform </b>, which optimized the development of business applications by over 50%
-           - Developed product strategy, conducted market research and competitive analysis, and wrote user stories to build an end-to-end procure-to-pay product, which reduced the company's overall revenue leakage by over 5% 
-           - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and reducing operational costs by 25%.
-           - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced revenue leakage by 20%.       
-           - Developed and implemented a custom "My Task" product tailored for Resident Captains, streamlining their workflows, boosting productivity, and automating repetitive tasks
+           - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories to build an end-to-end procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
+           - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and <b>reducing operational costs by 25%.</b>
+           - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced <b>revenue leakage by 20%. </b>      
+           - Developed and implemented a custom "My Task" product tailored for Resident Captains, <b>streamlining their workflows, boosting productivity, and automating repetitive tasks</b>
        - role: Senior Product Manager
          time: Feb '21 - Mar '22
          company: LeadSquared, Bangalore
@@ -56,7 +56,7 @@ experiences:
          company: SpeQue, Bangalore 
          details: |
             - Ideated & built a Point of Sale software to help business owners increase overall <b> operational efficiency by up to 15% </b> and saving <b> more than 20% </b> in cost of software
-            - Built front end & back end features of web and mobile apps on .Net Core, Xamarin, Mongo DB & Web APIs 
+            - Built front end & back end features of web and mobile apps on <b>.Net Core, Xamarin, Mongo DB & Web APIs </b>
             - Defined <b>go-to-market and business development strategies </b> to scale the business from scratch to an Annual Revenue Rate (ARR) of over INR 35 Lacs 
        - role: Solutions Consultant
          time: Apr '15 - Nov '16
@@ -67,7 +67,7 @@ experiences:
          time: Mar '13 - Apr '15
          company: InEight Inc., Bangalore
          details: |
-            - Led a team of 15 people, following agile methodologies, to build products for Infrastructure companies
+            - <b>Led a team of 15 people</b>, following agile methodologies, to build products for Infrastructure companies
             - Built go-to-market strategies and carried out customer presentations resulting in net sales worth <b>more than $300,000</b>  
        - role: Software Engineer
          time: Sep '08 - Aug '11
