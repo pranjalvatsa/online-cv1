@@ -74,20 +74,3 @@ experiences:
          company: Infosys, Mysore
          details: |
             - Developed, tested & deployed parts of $1,000,000 financial application using ASP .Net and SQL Server; provided efficient and cost-effective solutions, achieved 7/7 client level engagement feedback
-
-    skills:
-    title: Technical Skills
-
-    toolset:
-        
-      - name: .Net Core with C#, Node JS
-        level: 80%
-
-      - name: HTML/CSS, Javascript, Xamarin
-        level: 90%
-
-      - name: Web APIs, SQL Server, Mongo DB
-        level: 70%
-
-      - name: AWS Lambda, AWS Elastic Search
-        level: 70%
