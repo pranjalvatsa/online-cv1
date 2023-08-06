@@ -17,6 +17,19 @@ sidebar:
     github: pranjalvatsa
     telegram: # add your nickname without '@' sign
 
+    skills:
+    title: Technical Skills
+
+    toolset:
+        
+      - name: .Net Core with C#, Node JS
+
+      - name: HTML/CSS, Javascript, Xamarin
+
+      - name: Web APIs, SQL Server, Mongo DB
+
+      - name: AWS Lambda, AWS Elastic Search
+
 career-profile:
     title: Career Profile
     summary: |
@@ -70,15 +83,3 @@ experiences:
          company: Infosys, Mysore
          details: |
             - Successfully developed, tested & deployed parts of $1,000,000 financial application using ASP .Net and SQL Server; provided efficient and cost-effective solutions, achieved 7/7 client level engagement feedback
-skills:
-    title: Technical Skills
-
-    toolset:
-        
-      - name: .Net Core with C#, Node JS
-
-      - name: HTML/CSS, Javascript, Xamarin
-
-      - name: Web APIs, SQL Server, Mongo DB
-
-      - name: AWS Lambda, AWS Elastic Search
