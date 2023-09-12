@@ -21,7 +21,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product strategy.
+      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap &amp; strategy.
 education:
     title: Education
     info:
@@ -38,7 +38,7 @@ experiences:
          time: Mar '22 - Present
          company: Stanza Living, Gurugram
          details: |
-           - Led the development and deployment of NucleusX, a <b> low-code SaaS platform </b>, which optimized the development of business applications by over 50%
+           - Led the development and deployment of NucleusX, a <b> low-code platform </b>, which optimized the development of business applications by over 50%
            - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories for a procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
            - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and <b>reducing operational costs by 25%.</b>
            - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced <b>revenue leakage by 20%. </b>      
@@ -48,7 +48,7 @@ experiences:
          company: LeadSquared, Bangalore
          details: |
             - Collaborated with <b> cross-functional teams </b> to build <b>product roadmap</b> for Developer Platform products 
-            - Monitored KPIs, carried out competition analysis, wrote user stories, to build products to solve developer problems
+            - Monitored KPIs, carried out competition analysis, and wrote user stories for products to solve developer problems
             - Developed and implemented Mavis DB, a highly versatile database-as-a-service platform, leading to an increase in product adoption across 50+ enterprise clients across various industries
             - Ideated and designed a queue-as-a-service product to provide queue management capabilities to developers and businesses, and is used to manage thousands of requests per second
             - Optimized <b>product pricing</b> for all developer platform products, leading to an increase in the company's top line by ~INR 50L ARR
@@ -57,7 +57,7 @@ experiences:
          company: SpeQue, Bangalore 
          details: |
             - Ideated & built a Point of Sale software to help business owners increase overall <b> operational efficiency by up to 15% </b> and saving <b> more than 20% </b> in cost of software
-            - Defined <b>go-to-market</b> to scale the business from scratch to an Annual Revenue Rate (ARR) of over INR 35 Lacs 
+            - Defined <b>go-to-market</b> strategies to scale the business from scratch to an Annual Revenue Rate (ARR) of over INR 35 Lacs 
             - Conducted <b>digital marketing and business development</b> activities to generate and convert leads into customers, resulting in an overall customer count of 150+.
        - role: Solutions Consultant
          time: Apr '15 - Nov '16
