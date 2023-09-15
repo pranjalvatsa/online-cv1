@@ -38,7 +38,7 @@ experiences:
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
          details: |
-           - Led the development and deployment of NucleusX, a <b> low-code platform </b>, which optimized the development of business applications by over 50%
+           - Led the development and deployment of NucleusX, a <b> low-code, workflow management platform </b>, which optimized the development of business applications by over 50%
            - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories for a procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
            - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and <b>reducing operational costs by 25%.</b>
            - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced <b>revenue leakage by 20%. </b>      
@@ -86,7 +86,7 @@ skills:
       - name: .Net Core with C#, Node JS
         level: 80%
 
-      - name: HTML/CSS, Javascript, Xamarin
+      - name: HTML/CSS, Javascript
         level: 90%
 
       - name: Web APIs, SQL Server, Mongo DB
