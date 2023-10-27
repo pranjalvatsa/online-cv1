@@ -34,6 +34,12 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Upskilling 
+         time: Sep '23 - Date
+         company: NA
+         details: |
+           - Learning skills to build data pipelines on MS Azure
+           - Learning to build AI assistants by leveraging Large Language Models
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
