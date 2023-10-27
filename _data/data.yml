@@ -34,7 +34,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Upskilling 
+       - role: Upskilling 
          time: Sep '23 - Date
          company: NA
          details: |
