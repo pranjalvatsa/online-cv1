@@ -38,8 +38,8 @@ experiences:
          time: Sep '23 - Date
          company: NA
          details: |
-           - Learning skills to build data pipelines on MS Azure
-           - Learning to build AI assistants by leveraging Large Language Models
+           - Leveraging .Net core to build data pipelines on social media marketing data
+           - Leveraging Large Language Models to build AI assistants
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
@@ -98,5 +98,5 @@ skills:
       - name: Web APIs, SQL Server, Mongo DB
         level: 70%
 
-      - name: AWS Lambda, AWS Elastic Search
+      - name: Azure Dev Ops
         level: 70%
