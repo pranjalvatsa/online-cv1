@@ -34,19 +34,19 @@ education:
 experiences:
     title: Experiences
     info:
-       - role: Upskilling 
+       - role: Freelancing 
          time: Sep '23 - Date
          company: NA
          details: |
-           - Learning to build data pipelines on social media campaign data for large enterprise customers
-           - Leveraging Large Language Models to build AI assistants
+           - Building data connectors and data pipelines on marketing campaign data for customers
+           - Exploring machine learning and generative AI with Large Language Models
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
          details: |
-           - Led the development and deployment of NucleusX, a <b> low-code, workflow management platform </b>, which optimized the development of business applications by over 50%
+           - Led the development and deployment of NucleusX, a <b> workflow management platform </b>, which optimized the development of business applications by over 50%
            - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories for a procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
-           - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and <b>reducing operational costs by 25%.</b>
+           - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and <b>reducing operational costs</b>
            - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced <b>revenue leakage by 20%. </b>      
            - Developed and implemented a custom "My Task" product tailored for Resident Captains, <b>streamlining their workflows, boosting productivity, and automating repetitive tasks</b>
        - role: Senior Product Manager
