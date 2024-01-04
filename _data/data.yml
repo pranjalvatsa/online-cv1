@@ -21,7 +21,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch to 150+ paid customers. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap &amp; strategy.
+      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap &amp; strategy.
 education:
     title: Education
     info:
@@ -62,8 +62,8 @@ experiences:
          company: SpeQue, Bangalore 
          details: |
             - Ideated & built a Point of Sale software to help business owners increase overall <b> operational efficiency by up to 15% </b> and saving <b> more than 20% </b> in cost of software
-            - Defined <b>go-to-market</b> strategies to scale the business from scratch to an Annual Revenue Rate (ARR) of over INR 35 Lacs 
-            - Conducted <b>digital marketing and business development</b> activities to generate and convert leads into customers, resulting in an overall customer count of 150+.
+            - Defined <b>go-to-market</b> strategies to scale the business from scratch to an Annual Revenue Rate (ARR) of over INR 50 Lacs 
+            - Conducted <b>digital marketing and business development</b> activities to generate and convert leads into customers
        - role: Solutions Consultant
          time: Apr '15 - Nov '16
          company: Replicon, Bangalore
@@ -88,13 +88,13 @@ skills:
 
     toolset:
         
-      - name: .Net Core with C#, Node JS
+      - name: .Net Core with C#
         level: 80%
 
-      - name: HTML/CSS, Javascript
+      - name: HTML/CSS, Javascript, React Js, Vue Js
         level: 90%
 
-      - name: Web APIs, SQL Server, Mongo DB
+      - name: REST APIs, SQL Server, Mongo DB
         level: 70%
 
       - name: Azure Dev Ops
