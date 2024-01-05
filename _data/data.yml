@@ -1,3 +1,4 @@
+
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
@@ -19,8 +20,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-            Results driven and seasoned professional with over 15 years of experience in product development, design leadership, particularly in startup and tech-driven environments. Seeking the Head of Product & Design role to leverage expertise in spearheading product development, fostering collaboration, enhancing investor experiences, and providing design support to ensure user-centric solutions.experiences:
-    education:
+        Results driven and seasoned professional with over 15 years of experience in product development, design leadership, particularly in startup and tech-driven environments. Seeking the Head of Product & Design role to leverage expertise in spearheading product development, fostering collaboration, enhancing investor experiences, and providing design support to ensure user-centric solutions.experiences:
+education:
     title: Education
     info:
       - degree: MSc in Software Development
@@ -29,7 +30,7 @@ career-profile:
       - degree: B.E. in Electrical & Electronics
         university: Manipal University
 
-    experiences:
+experiences:
     title: Experiences
     info:
        - role: Freelancing 
