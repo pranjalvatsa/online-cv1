@@ -21,8 +21,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Results driven and seasoned professional with over 15 years of experience in product development, design leadership, particularly in startup and tech-driven environments. Seeking the Head of Product & Design role to leverage expertise in spearheading product development, fostering collaboration, enhancing investor experiences, and providing design support to ensure user-centric solutions.
-        
+        Results driven and seasoned professional with over 15 years of experience in product development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap & strategy.        
 experiences:
     title: Experiences
     info:
@@ -36,7 +35,7 @@ experiences:
          company: Stanza Living, Gurugram
          details: |
            - Led the development and execution of product roadmap for a <b> workflow management platform </b>, which optimized the development of business applications by over 50%
-           - Drove innovation and continuous improvement through product development cycles, incorporating user feedback and market trends.
+           - Drove <b> innovation and continuous improvement </b> through product development cycles, incorporating user feedback and market trends.
            - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and <b>reducing operational costs</b>
            - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced <b>revenue leakage by 20%. </b>      
        - role: Senior Product Manager
