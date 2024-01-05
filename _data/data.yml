@@ -21,10 +21,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      14 years of overall experience in software development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap &amp; strategy.
-education:
-    title: Education
-    info:
+      Results driven and seasoned professional with over 15 years of experience in product development, design leadership, particularly in startup and tech-driven environments. Seeking the Head of Product & Design role to leverage expertise in spearheading product development, fostering collaboration, enhancing investor experiences, and providing design support to ensure user-centric solutions.
       - degree: MSc in Software Development
         university: University of Glasgow
         time: 2011 - 2012
@@ -38,24 +35,23 @@ experiences:
          time: Sep '23 - Date
          company: NA
          details: |
-           - Building a marketing intelligence data platform for a client
+           - Desigining and executing product roadmap for a marketing intelligence data platform for a client
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
          details: |
-           - Led the development and deployment of NucleusX, a <b> workflow management platform </b>, which optimized the development of business applications by over 50%
-           - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories for a procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
+           - Led the development and execution of product roadmap for a <b> workflow management platform </b>, which optimized the development of business applications by over 50%
+           - Drove innovation and continuous improvement through product development cycles, incorporating user feedback and market trends.
            - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and <b>reducing operational costs</b>
            - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced <b>revenue leakage by 20%. </b>      
-           - Developed and implemented a custom "My Task" product tailored for Resident Captains, <b>streamlining their workflows, boosting productivity, and automating repetitive tasks</b>
        - role: Senior Product Manager
          time: Feb '21 - Mar '22
          company: LeadSquared, Bangalore
          details: |
-            - Collaborated with <b> cross-functional teams </b> to build <b>product roadmap</b> for Developer Platform products 
+            - Facilitated <b> communication and workflow optimization </b> to streamline the product development process.
             - Monitored KPIs, carried out competition analysis, and wrote user stories for products to solve developer problems
             - Developed and implemented Mavis DB, a highly versatile database-as-a-service platform, leading to an increase in product adoption across 50+ enterprise clients across various industries
-            - Ideated and designed a queue-as-a-service product to provide queue management capabilities to developers and businesses, and is used to manage thousands of requests per second
+            - Collaborated closely with designers to ensure consistency, usability, and aesthetics across products and experiences.
             - Optimized <b>product pricing</b> for all developer platform products, leading to an increase in the company's top line by ~INR 50L ARR
        - role: Co-founder (Product Head)
          time: Dec '16 - Feb '21
