@@ -20,7 +20,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Results driven and seasoned professional with over 15 years of experience in product development, design leadership, particularly in startup and tech-driven environments. Seeking the Head of Product & Design role to leverage expertise in spearheading product development, fostering collaboration, enhancing investor experiences, and providing design support to ensure user-centric solutions.experiences:
+      Results driven and seasoned professional with over 15 years of experience in product development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap & strategy.
 education:
     title: Education
     info:
@@ -43,14 +43,14 @@ experiences:
          company: Stanza Living, Gurugram
          details: |
            - Led the development and execution of product roadmap for a workflow management platform , which optimized the development of business applications by over 50%
-           - Drove innovation and continuous improvement through product development cycles, incorporating user feedback and market trends.
+           - Developed <b>product strategy, conducted market research and competitive analysis </b>, and wrote user stories for a procure-to-pay product, which reduced the company's <b>overall revenue leakage by over 5% </b>
            - Led the creation and deployment of a service management product, optimizing the customer experience by streamlining processes and reducing operational costs
            - Worked with cross-functional teams to automate the electricity service by integrating with IoT-based smart meter vendors to track electricity consumption at the user level, which reduced revenue leakage by 20%.
        - role: Senior Product Manager  
          time: Feb '21 - Mar '22
          company: LeadSquared, Bangalore
          details: |
-            - Facilitated <b> communication and workflow optimization </b> to streamline the product development process.
+            - Collaborated with <b> cross-functional teams </b> to build <b>product roadmap</b> for Developer Platform products 
             - Monitored KPIs, carried out competition analysis, and wrote user stories for products to solve developer problems
             - Developed and implemented Mavis DB, a highly versatile database-as-a-service platform, leading to an increase in product adoption across 50+ enterprise clients across various industries
             - Collaborated closely with designers to ensure consistency, usability, and aesthetics across products and experiences.
