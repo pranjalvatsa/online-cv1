@@ -20,7 +20,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Results driven and seasoned professional with over 15 years of experience in product development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap & strategy.
+      Results driven and seasoned professional with over 14 years of experience in product development, product lifecycle management, business analysis & solution consultancy. Successfully scaled a Saas startup from scratch. Proficient in Software as a Service (Saas), low code, user stories, wireframing, agile & product roadmap & strategy.
 education:
     title: Education
     info:
@@ -33,11 +33,11 @@ education:
 experiences:
     title: Experiences
     info:
-       - role: Freelancing 
+       - role: Upskilling 
          time: Sep '23 - Date
          company: NA
          details: |
-           - Designing and executing product roadmap for a marketing intelligence data platform for a client
+           - Learning and building a POC for a data platform to collate and analyse marketing data
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
