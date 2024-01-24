@@ -33,11 +33,12 @@ education:
 experiences:
     title: Experiences
     info:
-       - role: Upskilling 
+       - role: 
          time: Sep '23 - Date
          company: NA
          details: |
-           - Learning and building a POC for a data platform to collate and analyse marketing data
+           - Building a POC for a data platform to collate and analyse marketing data
+           - Exploring Facebook, Google and other 3rd party API for integration
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
