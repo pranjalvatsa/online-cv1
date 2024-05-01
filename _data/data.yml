@@ -33,12 +33,12 @@ education:
 experiences:
     title: Experiences
     info:
-       - role: 
-         time: Sep '23 - Date
-         company: NA
+       - role: Deputy General Manager, Product
+         time: Mar '24 - Date
+         company: Hindustan Times Media
          details: |
-           - Building a POC for a data platform to collate and analyse marketing data
-           - Exploring Facebook, Google and other 3rd party API for integration
+           - Leading the VCC Edge product lifecycle management
+           - Leveraging LLMs to build a company classification framework
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
