@@ -1,18 +1,2 @@
-// Font Variables
-$body-font: 'Inter', sans-serif;
-$heading-font: 'Inter', sans-serif;
-$code-font: 'Source Code Pro', monospace;
-
-// Apply fonts
-body {
-  font-family: $body-font;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: $heading-font;
-  font-weight: 600;
-}
-
-code, pre {
-  font-family: $code-font;
-}
+@import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
+@import "default"; // main partials
