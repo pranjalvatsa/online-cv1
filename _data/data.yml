@@ -82,18 +82,25 @@ experiences:
             - Provided efficient and cost-effective solutions, <b> achieved 7/7 client-level engagement feedback</b>
     
 skills:
-    title: Technical Skills
+  title: Technical Leadership
+  categories:
+    - name: Product Architecture
+      items:
+        - SaaS Platforms
+        - AI/ML Taxonomies
+        - IoT Systems
+        - DBaaS
+    
+    - name: Frontend Technologies
+      items:
+        - HTML5/CSS3
+        - JavaScript (ES6+)
+        - React.js
+        - Vue.js
 
-    toolset:
-        
-      - name: Product Architecture
-        items: [SaaS Platforms, AI/ML Taxonomies, IoT Systems, DBaaS]
-
-      - name: HTML/CSS, Javascript, React Js, Vue Js
-        level: 90%
-
-      - name: REST APIs, SQL Server, Mongo DB
-        level: 70%
-
-      - name: Azure Dev Ops
-        level: 70%
+    - name: DevOps & Cloud
+      items:
+        - Azure DevOps
+        - Docker
+        - Kubernetes
+        - AWS EC2/S3
