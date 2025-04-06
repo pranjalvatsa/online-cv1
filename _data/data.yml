@@ -36,16 +36,16 @@ experiences:
          time: Mar '24 - Date
          company: Hindustan Times Media
          details: |
-           - Spearheaded AI-driven VCC Edge 2.0 platform redesign, deploying agentic taxonomy framework (NLP/ML) to classify 200,000+ companies with 90% accuracy  
-           - Drove 25% QoQ revenue growth by enabling sales teams with predictive analytics tools for investment banking clients  
-           - Architected API-first product strategy reducing integration timelines by 40% for enterprise customers
+           - Spearheaded <b>AI-driven</b> VCC Edge 2.0 platform redesign, deploying <b>agentic taxonomy framework </b>(NLP/ML) to classify 200,000+ companies with 90% accuracy  
+           - Drove <b>25% QoQ revenue growth</b> by enabling sales teams with predictive analytics tools for investment banking clients  
+           - Architected <b>API-first product strategy</b> reducing integration timelines by 40% for enterprise customers
        - role: Principal Product Manager 
          time: Mar '22 - Sep '23
          company: Stanza Living, Gurugram
          details: |
-           - Built low-code BPM platform reducing app development cycle by 50% (React/Vue.js + .Java Sringboot microservices)  
-           - Led IoT integration with smart meters, cutting energy revenue leakage by 20% ($1.2M annualized savings)  
-           - Designed procurement analytics suite using Python/Tableau, reducing supply chain costs by 5% ($800K impact)       
+           - Built <b>low-code BPM platform</b> reducing app development cycle by 50% (React/Vue.js + .Java Sringboot microservices)  
+           - Led <b>IoT integration with smart meters</b>, cutting energy revenue leakage by 20% ($1.2M annualized savings)  
+           - Designed <b>procurement analytics </b> suite using Python/Tableau, reducing supply chain costs by 5% ($800K impact)       
        - role: Senior Product Manager  
          time: Feb '21 - Mar '22
          company: LeadSquared, Bangalore
@@ -59,7 +59,7 @@ experiences:
          time: Dec '16 - Feb '21
          company: SpeQue, Bangalore 
          details: |
-            - Scaled cloud-native POS platform to $70K ARR (React.js + .Net Core stack), achieving 15% operational efficiency gains for 150+ SMBs  
+            - Scaled cloud-native POS platform to <b>$70K ARR</b> (React.js + .Net Core stack), achieving <b>15% operational efficiency</b> gains for 150+ SMBs  
             - Implemented ML-based inventory forecasting (Python/TensorFlow) reducing stockouts by 30% for retail clients  
             - Directed full-stack engineering team (8 members) using CI/CD pipelines (Azure DevOps), achieving 99.9% platform uptime       
        - role: Solutions Consultant
@@ -91,9 +91,16 @@ skills:
         - "IoT Systems"
         - "DBaaS"
     
-    - name: "Frontend Technologies"
+    - name: "Technical Stack"
       items: 
-        - "HTML5/CSS3"
-        - "JavaScript (ES6+)"
-        - "React.js"
-        - "Vue.js"
+        - ".Net Core"
+        - "React/Vue.js"
+        - "REST"
+        - "SQL/NoSQL"
+        - "Azure/AWS"
+    - name: "ProductOps"
+      items:
+        - "Jira"
+        - "Monday.com Roadmaps"
+        - "Postman"
+        - "Pendo"
