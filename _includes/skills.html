@@ -1,17 +1,14 @@
 <section class="skills">
-  <h2 class="section-title">{{ site.data.skills.title }}</h2>
+  <h2 class="section-title">{{ site.data.data.skills.title }}</h2>
   
-  {% for skill in site.data.skills.toolset %}
+  {% for category in site.data.data.skills.categories %}
   <div class="skill-category">
-    <h3 class="skill-heading">{{ skill.category }}</h3>
+    <h3 class="skill-heading">{{ category.name }}</h3>
     <ul class="skill-items">
-      {% for item in skill.items %}
+      {% for item in category.items %}
       <li class="skill-item">{{ item }}</li>
       {% endfor %}
     </ul>
   </div>
   {% endfor %}
-  <!-- In skills.html -->
-{{ site.data.resume.skills | inspect }}
 </section>
-
