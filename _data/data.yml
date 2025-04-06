@@ -82,16 +82,16 @@ experiences:
             - Provided efficient and cost-effective solutions, <b> achieved 7/7 client-level engagement feedback</b>
     
 skills:
-  title: Technical Leadership
-  toolset:
-    - category: Product Architecture
+  title: "Technical Leadership"
+  categories:
+    - name: "Product Architecture"
       items: 
         - "SaaS Platforms"
         - "AI/ML Taxonomies"
         - "IoT Systems"
         - "DBaaS"
     
-    - category: Frontend Technologies
+    - name: "Frontend Technologies"
       items: 
         - "HTML5/CSS3"
         - "JavaScript (ES6+)"
