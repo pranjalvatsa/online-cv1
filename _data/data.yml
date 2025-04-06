@@ -83,24 +83,17 @@ experiences:
     
 skills:
   title: Technical Leadership
-  categories:
-    - name: Product Architecture
-      items:
-        - SaaS Platforms
-        - AI/ML Taxonomies
-        - IoT Systems
-        - DBaaS
+  toolset:
+    - category: Product Architecture
+      items: 
+        - "SaaS Platforms"
+        - "AI/ML Taxonomies"
+        - "IoT Systems"
+        - "DBaaS"
     
-    - name: Frontend Technologies
-      items:
-        - HTML5/CSS3
-        - JavaScript (ES6+)
-        - React.js
-        - Vue.js
-
-    - name: DevOps & Cloud
-      items:
-        - Azure DevOps
-        - Docker
-        - Kubernetes
-        - AWS EC2/S3
+    - category: Frontend Technologies
+      items: 
+        - "HTML5/CSS3"
+        - "JavaScript (ES6+)"
+        - "React.js"
+        - "Vue.js"
