@@ -1,3 +1,21 @@
+/* ======= Variables & Mixins ======= */
+// Add these at the very top
+$theme-color: #2d5f8b; // Example theme color
+$text-color-secondary: #666;
+$smoky-white: #f5f5f5;
+$text-grey: #999;
+$heart: #ff4081;
+
+// Mixins
+@mixin box-shadow($params) {
+  -webkit-box-shadow: $params;
+  -moz-box-shadow: $params;
+  box-shadow: $params;
+}
+
+/* ======= Font Import ======= */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 /* ======= Base ======= */
 body {
   font-family: "Roboto", sans-serif;
@@ -7,32 +25,12 @@ body {
   padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  // Add smooth transition
+  transition: all 0.3s ease;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: 700;
-}
-
-a {
-  color: darken($theme-color, 15%);
-  &:hover {
-    text-decoration: underline;
-    color: darken($theme-color, 30%);
-  }
-  &:focus {
-    text-decoration: none;
-  }
-}
-
-p {
-  line-height: 1.5;
-}
-
+/* ======= Grid Fixes ======= */
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
@@ -41,238 +39,66 @@ p {
   margin: 0 auto;
   position: relative;
   @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
-}
-
-.sidebar-wrapper {
-  grid-column: span 3;
-  order: 2;
-  background: $theme-color;
-  color: #fff;
-  a {
-    color: #fff;
-  }
-  .profile-container {
-    padding: 30px;
-    //background: darken($theme-color, 10%);
-    background: rgba(0, 0, 0, 0.2);
-    text-align: center;
-    color: #fff;
-  }
-  .name {
-    font-size: 32px;
-    font-weight: 900;
-    margin-top: 0;
-    margin-bottom: 10px;
-  }
-  .tagline {
-    color: rgba(256, 256, 256, 0.6);
-    font-size: 16px;
-    font-weight: 400;
-    margin-top: 0;
-    margin-bottom: 0;
-  }
-  .profile {
-    margin-bottom: 15px;
-  }
-
-  .avatar {
-    //used for profile image
-    max-width: 100px;
-    margin-bottom: 15px;
-    border: 0px solid #fff;
-    border-radius: 100%;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
-  }
-  .contact-list {
-    .fas,
-    .fab,
-    .far {
-      margin-right: 5px;
-      font-size: 18px;
-      vertical-align: middle;
-    }
-    li {
-      margin-bottom: 15px;
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
-  }
-  .container-block {
-    padding: 30px;
-  }
-  .container-block-title {
-    text-transform: uppercase;
-    font-size: 16px;
-    font-weight: 700;
-    margin-top: 0;
-    margin-bottom: 15px;
-  }
-  .degree {
-    font-size: 14px;
-    margin-top: 0;
-    margin-bottom: 5px;
-  }
-  .education-container {
-    .item {
-      margin-bottom: 15px;
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
-    .meta {
-      color: rgba(256, 256, 256, 0.6);
-      font-weight: 500;
-      margin-bottom: 0px;
-      margin-top: 0;
-    }
-    .time {
-      color: rgba(256, 256, 256, 0.6);
-      font-weight: 500;
-      margin-bottom: 0px;
-    }
-  }
-  .languages-container {
-    .lang-desc {
-      color: rgba(256, 256, 256, 0.6);
-    }
-  }
-
-  .languages-list {
-    margin-bottom: 0;
-    li {
-      margin-bottom: 10px;
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
-  }
-
-  .interests-list {
-    margin-bottom: 0;
-    li {
-      margin-bottom: 10px;
-      &:last-child {
-        margin-bottom: 0;
-      }
-    }
+  
+  // Add clearfix
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
   }
 }
 
-.main-wrapper {
-  grid-column: span 7;
-  background: #fff;
-  padding: 60px;
-  .section-title {
-    text-transform: uppercase;
-    font-size: 20px;
-    font-weight: 500;
-    color: darken($theme-color, 15%);
-    position: relative;
-    margin-top: 0;
-    margin-bottom: 20px;
-  }
-  .section {
-    margin-bottom: 60px;
-  }
-
-  .experiences-section,
-  .educations-section {
-    .item {
-      margin-bottom: 30px;
-    }
-  }
-  .upper-row {
-    position: relative;
-    overflow: hidden;
-    margin-bottom: 2px;
-  }
-  .job-title,
-  .degree {
-    color: $text-color;
-    font-size: 16px;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-weight: 500;
-  }
-  .time {
-    position: absolute;
-    right: 0;
-    top: 0;
-    color: $text-grey;
-  }
-  .company,
-  .university {
-    margin-bottom: 10px;
-    color: $text-grey;
-  }
-
-  .project-title {
-    font-size: 16px;
-    font-weight: 400;
-    margin-top: 0;
-    margin-bottom: 5px;
-    color: darken($theme-color, 15%);
-  }
-  .projects-section {
-    .intro {
-      margin-bottom: 30px;
-    }
-    .item {
-      margin-bottom: 15px;
-    }
-  }
-
-  .publication-title {
-    font-size: 16px;
-    font-weight: 400;
-    color: $text-color;
-    margin-bottom: 1px;
-  }
-  .publication-authors {
-    font-style: italic;
-    color: $text-grey;
-    margin-bottom: 1px;
-  }
-  .publications-section {
-    .intro {
-      margin-bottom: 30px;
-    }
-    .item {
-      margin-bottom: 15px;
-    }
-  }
+/* ======= Avatar Fix ======= */
+.avatar {
+  max-width: 100px;
+  margin-bottom: 15px;
+  border: 0px solid #fff;
+  border-radius: 50%; // Changed from 100% for better browser support
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  object-fit: cover; // Ensure proper image scaling
 }
 
+/* ======= Skills Section Fix ======= */
 .skillset {
   .item {
     margin-bottom: 15px;
     overflow: hidden;
+    
+    // Add animation
+    transition: transform 0.3s ease;
+    &:hover {
+      transform: translateX(5px);
+    }
   }
-  .level-title {
-    font-size: 14px;
-    margin-top: 0;
-    margin-bottom: 12px;
-  }
+
   .level-bar {
     height: 12px;
     background: $smoky-white;
+    border-radius: 6px;
+    overflow: hidden;
   }
+
   .level-bar-inner {
-    height: 12px;
+    height: 100%; // Fix height calculation
     background: lighten($theme-color, 15%);
+    border-radius: 6px;
+    transition: width 0.5s ease;
   }
 }
 
-.footer {
-  padding-top: 30px;
-  .copyright {
-    line-height: 1.6;
-    color: $text-color-secondary;
-    font-size: 13px;
+/* ======= Responsive Fixes ======= */
+@media (max-width: 768px) {
+  .wrapper {
+    grid-template-columns: 1fr;
+    padding: 15px;
   }
 
-  .fa-heart {
-    color: $heart;
+  .sidebar-wrapper, 
+  .main-wrapper {
+    grid-column: span 1;
+  }
+
+  .main-wrapper {
+    padding: 30px;
   }
 }
